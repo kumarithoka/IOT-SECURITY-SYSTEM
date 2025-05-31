@@ -49,4 +49,5 @@ Any place requiring automated motion-triggered security alerts
 This system effectively combines hardware sensors, image capture, and cloud communication to provide a reliable, real-time security monitoring solution that keeps users informed and their premises safe.
 
 OUTPUT: EXAMPLE IMAGES FOR IOT SECURITY SYSTEMS
+![Image](https://github.com/user-attachments/assets/dad6a744-3231-422a-b458-ac9961356c3a)
 
