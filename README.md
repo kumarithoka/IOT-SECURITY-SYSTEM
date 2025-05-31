@@ -48,5 +48,5 @@ Any place requiring automated motion-triggered security alerts
 
 This system effectively combines hardware sensors, image capture, and cloud communication to provide a reliable, real-time security monitoring solution that keeps users informed and their premises safe.
 
-OUTPUT:
-[\[ PIR Motion Sensor \] --detects motion--.txt](https://github.com/user-attachments/files/20534268/PIR.Motion.Sensor.--detects.motion--.txt)
+OUTPUT: EXAMPLE IMAGES FOR IOT SECURITY SYSTEMS
+
